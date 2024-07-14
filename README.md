@@ -1,0 +1,1 @@
+# correction-of-pixelated-images
